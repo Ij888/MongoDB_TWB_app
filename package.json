@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "description": "A journal documenting the process of setting up mongoDB, using the various CRUD operations, and administering databases mongoDB-style.",
+  "version": "",
+  "dependencies": {
+    "mongoose": "^4.4.17"
+  }
+}
